@@ -6,7 +6,19 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-jupyterlab = "*"
+jupyterlab = "==1.0.9"
+jupyter-contrib-nbextensions = "==0.5.1"
+nb-black = "==1.0.6"
+isort = "==4.3.21"
+autopep8 = "==1.4.4"
+plotly = "==4.1.0"
+fastparquet = "==0.3.2"
+numpy = "==1.17.0"
+pandas = "==0.25.1"
+pyarrow = "==0.14.1"
+python-snappy = "==0.5.4"
+tqdm = "==4.35.0"
+ipywidgets = "==7.5.1"
 
 [requires]
 python_version = "3.7"
