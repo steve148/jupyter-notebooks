@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data files with sensitive infor.
+notebooks/employee_turnover/clean_employees
+notebooks/employee_turnover/employees
