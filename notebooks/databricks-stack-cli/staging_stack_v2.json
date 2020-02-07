@@ -1,0 +1,42 @@
+{
+  "name": "databricks-stack-demo",
+  "resources": [
+    {
+      "id": "example-workspace-notebook",
+      "service": "workspace",
+      "properties": {
+        "source_path": "simple_notebook_v2.py",
+        "path": "/Users/lennox.stevenson@prodigygame.com/databricks_stack_demo/simple_notebook",
+        "object_type": "NOTEBOOK"
+      }
+    },
+    {
+      "id": "simple-job",
+      "service": "jobs",
+      "properties": {
+        "name": "Super simple job that should be deleted ASAP",
+        "new_cluster": {
+          "autoscale": {
+            "min_workers": 1,
+            "max_workers": 10
+          },
+          "spark_version": "6.3.x-scala2.11",
+          "aws_attributes": {
+            "first_on_demand": 1,
+            "availability": "SPOT_WITH_FALLBACK",
+            "zone_id": "us-east-1a",
+            "spot_bid_price_percent": 100,
+            "ebs_volume_type": "GENERAL_PURPOSE_SSD",
+            "ebs_volume_count": 1,
+            "ebs_volume_size": 100
+          },
+          "node_type_id": "m4.large",
+          "enable_elastic_disk": true
+        },
+        "notebook_task": {
+          "notebook_path": "/Users/lennox.stevenson@prodigygame.com/databricks_stack_demo/simple_notebook"
+        }
+      }
+    }
+  ]
+}

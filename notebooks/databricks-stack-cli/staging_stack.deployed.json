@@ -1,0 +1,20 @@
+{
+  "cli_version": "0.9.1",
+  "deployed_resources": [
+    {
+      "databricks_id": {
+        "path": "/Users/lennox.stevenson@prodigygame.com/databricks_stack_demo/simple_notebook"
+      },
+      "id": "example-workspace-notebook",
+      "service": "workspace"
+    },
+    {
+      "databricks_id": {
+        "job_id": 4231
+      },
+      "id": "simple-job",
+      "service": "jobs"
+    }
+  ],
+  "name": "databricks-stack-demo"
+}
