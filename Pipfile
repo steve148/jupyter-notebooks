@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 jupyterlab = "==1.0.9"
 jupyter-contrib-nbextensions = "==0.5.1"
-nb-black = "==1.0.6"
+nb-black = "==1.0.7"
 isort = "==4.3.21"
 autopep8 = "==1.4.4"
 plotly = "==4.1.0"
