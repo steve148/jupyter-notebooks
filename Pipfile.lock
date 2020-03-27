@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bb9520d9a0493fbf74e6927db06df5633b1cf0e462f557b9d41178266d67559d"
+            "sha256": "3d760126bb207af1fd072d915d1d581c9b21c9e2d0bb7f3fe13fb5da020ad921"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -253,11 +253,11 @@
         },
         "jupyterlab": {
             "hashes": [
-                "sha256:e8b6f058bc2ef8bf11fb742e170226fa5100c01ff57c0b37deb173ddd4a3f8c2",
-                "sha256:fbc86e7afb180542610d8da0f375ab049cbbe9b76dcddf8be4c69836d6a1fc43"
+                "sha256:5d1a833a9e49e6d90d68191917cb16a97ff4ec668c26c85d33ebce629df14141",
+                "sha256:7c0a777aae68bc11c2a772d4c1e32c1f2a15388a3fb4fd43fa621e2261c368e9"
             ],
             "index": "pypi",
-            "version": "==1.0.9"
+            "version": "==2.0.1"
         },
         "jupyterlab-server": {
             "hashes": [
