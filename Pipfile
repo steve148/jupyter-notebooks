@@ -17,7 +17,7 @@ numpy = "==1.18.2"
 pandas = "==1.0.3"
 pyarrow = "==0.16.0"
 python-snappy = "==0.5.4"
-tqdm = "==4.43.0"
+tqdm = "==4.44.1"
 ipywidgets = "==7.5.1"
 databricks-cli = "*"
 
