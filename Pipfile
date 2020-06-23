@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-jupyterlab = "==2.1.4"
+jupyterlab = "==2.1.5"
 jupyter-contrib-nbextensions = "==0.5.1"
 nb-black = "==1.0.7"
 isort = "==4.3.21"
