@@ -9,7 +9,7 @@ verify_ssl = true
 jupyterlab = "==2.2.8"
 jupyter-contrib-nbextensions = "==0.5.1"
 nb-black = "==1.0.7"
-isort = "==5.5.1"
+isort = "==5.5.2"
 autopep8 = "==1.5.4"
 plotly = "==4.10.0"
 fastparquet = "==0.4.1"
