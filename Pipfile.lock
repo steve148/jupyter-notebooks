@@ -149,11 +149,11 @@
         },
         "databricks-cli": {
             "hashes": [
-                "sha256:37439894a5bab1630434acd630f48c084c128c16ed27c658b72c39df8fa16806",
-                "sha256:b3c7205dd8cb9935c475794ebd41b53aba79a53e028d3cf6b5871eec83c89ec0"
+                "sha256:a1489ef893cd96ab784d7f5c0764a02bc20ea213a798f640b1004a1018122f36",
+                "sha256:d53ebb0151c2313c2ad4f016a37fda503eed205cc05363050bb870ea4141e84e"
             ],
             "index": "pypi",
-            "version": "==0.11.0"
+            "version": "==0.12.0"
         },
         "decorator": {
             "hashes": [
@@ -452,10 +452,10 @@
         },
         "nbconvert": {
             "hashes": [
-                "sha256:1539c838acc1b5d3227f72fa03d39ca2b9ad9489d7a0e3083e04dbe5f3e1237c",
-                "sha256:73b3cff6090a16bb8ce2bfb84a6f8654802104e81da71d8a42297f5660a9ecea"
+                "sha256:68335477288aab8a9b9ec03002dce59b4eb1ca967116741ec218a4e78c129efd",
+                "sha256:d8549f62e739a4d51f275c2932b1783ee5039dde07a2b71de70c0296a42c8394"
             ],
-            "version": "==6.0.4"
+            "version": "==6.0.6"
         },
         "nbformat": {
             "hashes": [
@@ -816,6 +816,13 @@
                 "sha256:db2723a20d04bcda8522165c73eea7c300eda74e0ce852d9022e0159d7895007"
             ],
             "version": "==0.8.7"
+        },
+        "tenacity": {
+            "hashes": [
+                "sha256:29ae90e7faf488a8628432154bb34ace1cca58244c6ea399fd33f066ac71339a",
+                "sha256:5a5d3dcd46381abe8b4f82b5736b8726fd3160c6c7161f53f8af7f1eb9b82173"
+            ],
+            "version": "==6.2.0"
         },
         "terminado": {
             "hashes": [
