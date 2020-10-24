@@ -149,11 +149,11 @@
         },
         "databricks-cli": {
             "hashes": [
-                "sha256:e0772c96c1e3274a239c9cfdd07da19c84804f54eb4f0d32f59fa75b0dce42ae",
-                "sha256:ea9ff70216d9c6d506cea27b015b5b9b87b57c43cf7986713f1ead8198b4326a"
+                "sha256:1fdc589b97f7072337c59d10b2250c4634bca23bbeac3a6561b9ffd0f2b233f4",
+                "sha256:e6ce86cc3000e5972d1bda77277fb83e287e37af08ae3a4a13f98efd0b7131ea"
             ],
             "index": "pypi",
-            "version": "==0.12.2"
+            "version": "==0.13.0"
         },
         "decorator": {
             "hashes": [
@@ -834,13 +834,6 @@
                 "sha256:db2723a20d04bcda8522165c73eea7c300eda74e0ce852d9022e0159d7895007"
             ],
             "version": "==0.8.7"
-        },
-        "tenacity": {
-            "hashes": [
-                "sha256:29ae90e7faf488a8628432154bb34ace1cca58244c6ea399fd33f066ac71339a",
-                "sha256:5a5d3dcd46381abe8b4f82b5736b8726fd3160c6c7161f53f8af7f1eb9b82173"
-            ],
-            "version": "==6.2.0"
         },
         "terminado": {
             "hashes": [
