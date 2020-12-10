@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7ee27ecdb843100060c767547f8b09c5f1dffefcd6275d332d7957a7971a9103"
+            "sha256": "9741552cb934ca95fa10535f61642f6bc54e909cae6a3f393d47cc70b65f8689"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -621,11 +621,11 @@
         },
         "plotly": {
             "hashes": [
-                "sha256:d726cfb42618316fadb0cd1505ea6d0c53052d98f484a9ecac9affd9217f99f9",
-                "sha256:e7d2336eae9a8aec79d14982e59d7da6da1aeb824f6c2d4952a52484a5824908"
+                "sha256:f0462e494d324a1649dee0208ab04fc7a158740488373d31a499f6d691167a04",
+                "sha256:f2a38726ddc7ce185a277c78a41b50bb8cfcfa4f53b45a481417401cadc0454c"
             ],
             "index": "pypi",
-            "version": "==4.14.0"
+            "version": "==4.14.1"
         },
         "prometheus-client": {
             "hashes": [
