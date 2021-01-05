@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "76f4a41ecd49413beabd2fd2b03586e8c827060a82f1292354ec9b6dae3cb5f9"
+            "sha256": "590a9802e360be611f495b8cc39b0140887234f89d2c3b62bbfb845900281ee7"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -664,10 +664,10 @@
         },
         "prompt-toolkit": {
             "hashes": [
-                "sha256:25c95d2ac813909f813c93fde734b6e44406d1477a9faef7c915ff37d39c0a8c",
-                "sha256:7debb9a521e0b1ee7d2fe96ee4bd60ef03c6492784de0547337ca4433e46aa63"
+                "sha256:45b154489d89dc41cce86a069a65f3886206518e7ca93fa9d7dad70546c78d54",
+                "sha256:c5eeab58dd31b541442825d7870777f2a2f764eb5fda03334d5219cd84b9722f"
             ],
-            "version": "==3.0.8"
+            "version": "==3.0.9"
         },
         "ptyprocess": {
             "hashes": [
@@ -978,11 +978,11 @@
         },
         "tqdm": {
             "hashes": [
-                "sha256:38b658a3e4ecf9b4f6f8ff75ca16221ae3378b2e175d846b6b33ea3a20852cf5",
-                "sha256:d4f413aecb61c9779888c64ddf0c62910ad56dcbe857d8922bb505d4dbff0df1"
+                "sha256:556c55b081bd9aa746d34125d024b73f0e2a0e62d5927ff0e400e20ee0a03b9a",
+                "sha256:b8b46036fd00176d0870307123ef06bb851096964fa7fc578d789f90ce82c3e4"
             ],
             "index": "pypi",
-            "version": "==4.54.1"
+            "version": "==4.55.1"
         },
         "traitlets": {
             "hashes": [
