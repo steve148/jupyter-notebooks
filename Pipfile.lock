@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c1ab985c5171a41d3612a88ba87b35e8231fd07e4599142596d592ae270c1bf1"
+            "sha256": "a14b1a8057d5e384d536ec7d6d38e57f251917cc2af2f3972afcf03df9a1f1c3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -345,10 +345,10 @@
         },
         "jupyterlab-server": {
             "hashes": [
-                "sha256:67bfd4acfef24cf94e3dc0971cf6fa0eee13cc84ee47cdcd704257a0975b22ad",
-                "sha256:904d7c94d0a002b3bc36552fa1581a331451228adca0069e7687e07786d04fc4"
+                "sha256:8e9f35ac7ac411d0c94b66e7d72ca1ef7f2d33ab78090523adcfa42afe862940",
+                "sha256:a71ebeb89eb2ab49eca41768f9840bb6896c264203ea755990313d4dfa610a74"
             ],
-            "version": "==2.1.1"
+            "version": "==2.1.2"
         },
         "jupyterlab-widgets": {
             "hashes": [
@@ -650,11 +650,11 @@
         },
         "plotly": {
             "hashes": [
-                "sha256:7eeac0fcd40b0556e04c3ed331d1b56ba6bd2bec4ebef7dee13e2ae6126a3f4e",
-                "sha256:955b58509200240b8a97c59194b0a7460cab5b4aa74ef255af60e6d904dda48e"
+                "sha256:7d8aaeed392e82fb8e0e48899f2d3d957b12327f9d38cdd5802bc574a8a39d91",
+                "sha256:d68fc15fcb49f88db27ab3e0c87110943e65fee02a47f33a8590f541b3042461"
             ],
             "index": "pypi",
-            "version": "==4.14.2"
+            "version": "==4.14.3"
         },
         "prometheus-client": {
             "hashes": [
