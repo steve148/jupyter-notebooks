@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e38c25ef60f20a890d72ae448dae99a92ea6d9586eec76e825fccf39e2cad55d"
+            "sha256": "db455776af58ff18b8459b5acc6ddb992ecaa9c3735fa970588527a3a0814935"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -211,10 +211,10 @@
         },
         "ipykernel": {
             "hashes": [
-                "sha256:4ed205700001a83b5832d4821c46a5733f1bf4b1c55744314ae3c756be6b6095",
-                "sha256:697103d218e9a8828025af7986e033c89e0b36e2b6eb84a5bda4739b9a27f3cb"
+                "sha256:98321abefdf0505fb3dc7601f60fc4087364d394bd8fad53107eb1adee9ff475",
+                "sha256:efd07253b54d84d26e0878d268c8c3a41582a18750da633c2febfd2ece0d467d"
             ],
-            "version": "==5.4.3"
+            "version": "==5.5.0"
         },
         "ipython": {
             "hashes": [
@@ -325,10 +325,10 @@
         },
         "jupyter-server": {
             "hashes": [
-                "sha256:023431125ffeae8330eb0daab78658dffc51b3886ec5621ee006dcb0f267cc49",
-                "sha256:c21f4a607aab1f3a1289209b5483ec42aeefaf6f9cc6f51ccdc23d9c09ea2387"
+                "sha256:af518ce295bfaa0d5c05031f963bdcfcd2ab156cb2223c0a70665219aed338da",
+                "sha256:b0126f237f679533eec46244cfc66d61e3a1f8ec0fad2d47352fa19d3e754e47"
             ],
-            "version": "==1.4.0"
+            "version": "==1.4.1"
         },
         "jupyterlab": {
             "hashes": [
@@ -347,10 +347,10 @@
         },
         "jupyterlab-server": {
             "hashes": [
-                "sha256:8b619ec5e13c2d1ac2e3a43a8147382f41fb17b425b50fa38b1cc84849c7bf94",
-                "sha256:b647c532bbb45dad83b1dcd18e9b8cd9a22a68f799811cbca35616b3e8d27acc"
+                "sha256:653cb811739e59f2f6998f659b4635a90c110a128e0245ce27dc3fe02c46543a",
+                "sha256:e7a0245aa3de23a1803de2eff401e4ca4594538d9f59806134f30419a6d8b6a3"
             ],
-            "version": "==2.2.1"
+            "version": "==2.3.0"
         },
         "jupyterlab-widgets": {
             "hashes": [
@@ -985,10 +985,10 @@
         },
         "tabulate": {
             "hashes": [
-                "sha256:26f2589d80d332fefd2371d396863dedeb806f51b54bdb4b264579270b621e92",
-                "sha256:d6fe298fc0a58d848d6160118d17e70905f36766552ee78f8a1f4d64e8e16916"
+                "sha256:d7c013fe7abbc5e491394e10fa845f8f32fe54f8dc60c6622c6cf482d25d47e4",
+                "sha256:eb1d13f25760052e8931f2ef80aaf6045a6cceb47514db8beab24cded16f13a7"
             ],
-            "version": "==0.8.8"
+            "version": "==0.8.9"
         },
         "terminado": {
             "hashes": [
@@ -1065,11 +1065,11 @@
         },
         "tqdm": {
             "hashes": [
-                "sha256:65185676e9fdf20d154cffd1c5de8e39ef9696ff7e59fe0156b1b08e468736af",
-                "sha256:70657337ec104eb4f3fb229285358f23f045433f6aea26846cdd55f0fd68945c"
+                "sha256:2c44efa73b8914dba7807aefd09653ac63c22b5b4ea34f7a80973f418f1a3089",
+                "sha256:c23ac707e8e8aabb825e4d91f8e17247f9cc14b0d64dd9e97be0781e9e525bba"
             ],
             "index": "pypi",
-            "version": "==4.57.0"
+            "version": "==4.58.0"
         },
         "traitlets": {
             "hashes": [
