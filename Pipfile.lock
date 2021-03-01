@@ -18,10 +18,10 @@
     "default": {
         "anyio": {
             "hashes": [
-                "sha256:8a56e08623dc55955a06719d4ad62de6009bb3f1dd04936e60b2104dd58da484",
-                "sha256:c286818ccd5dcbd5d385b223f16a055393474527b1d5650da489828a9887d559"
+                "sha256:4a41c5b3a65ed92e469d51b6fba3779301850ea2e352afcf9e36c46f21ee14a9",
+                "sha256:aa3da546ed17f097ca876c78024dea380a3b7fa80759abfdda59f12176a3dac8"
             ],
-            "version": "==2.1.0"
+            "version": "==2.2.0"
         },
         "appdirs": {
             "hashes": [
@@ -167,11 +167,11 @@
         },
         "databricks-cli": {
             "hashes": [
-                "sha256:bf94dc5187fa3500a31d52d7225fbc1a4699aa6e3c321223e7088eb5b5c94b62",
-                "sha256:c6e01f34bbc51186e98e57865c846cdb22a5331a6ba842900df3da703ac6bdbd"
+                "sha256:9e956f0efb7aad100d9963f223db986392cf2dc3e9922f2f83e55d372e84ef16",
+                "sha256:dcf4ce4d220400d2349875040402596fff0a7fe336905e19b535bb26cc726a5b"
             ],
             "index": "pypi",
-            "version": "==0.14.1"
+            "version": "==0.14.2"
         },
         "decorator": {
             "hashes": [
@@ -218,11 +218,11 @@
         },
         "ipython": {
             "hashes": [
-                "sha256:1918dea4bfdc5d1a830fcfce9a710d1d809cbed123e85eab0539259cb0f56640",
-                "sha256:1923af00820a8cf58e91d56b89efc59780a6e81363b94464a0f17c039dffff9e"
+                "sha256:04323f72d5b85b606330b6d7e2dc8d2683ad46c3905e955aa96ecc7a99388e70",
+                "sha256:34207ffb2f653bced2bc8e3756c1db86e7d93e44ed049daae9814fed66d408ec"
             ],
             "markers": "python_version >= '3.3'",
-            "version": "==7.20.0"
+            "version": "==7.21.0"
         },
         "ipython-genutils": {
             "hashes": [
