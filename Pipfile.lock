@@ -167,11 +167,11 @@
         },
         "databricks-cli": {
             "hashes": [
-                "sha256:bf94dc5187fa3500a31d52d7225fbc1a4699aa6e3c321223e7088eb5b5c94b62",
-                "sha256:c6e01f34bbc51186e98e57865c846cdb22a5331a6ba842900df3da703ac6bdbd"
+                "sha256:9e956f0efb7aad100d9963f223db986392cf2dc3e9922f2f83e55d372e84ef16",
+                "sha256:dcf4ce4d220400d2349875040402596fff0a7fe336905e19b535bb26cc726a5b"
             ],
             "index": "pypi",
-            "version": "==0.14.1"
+            "version": "==0.14.2"
         },
         "decorator": {
             "hashes": [
